@@ -1,0 +1,207 @@
+ANUDEEP GI
+Contact Information
+Phone: +91 8921720345
+Email: anu1488@gmail.com
+Location: Bangalore, India
+
+Objective
+Experienced Full Stack Developer with 11 years in the industry and high-level proficiency in JavaScript, Node.js, React.js, CSS, HTML, and PHP. Currently seeking a position where I can utilize my skills to create scalable applications and contribute to innovative projects.
+
+Skills
+- Expertise in building responsive web applications in Agile/Scrum environments.
+- Proficient in client-side and server-side technologies, deployments, and test-driven development.
+- Skilled in writing clean, efficient, and scalable code using industry-standard practices.
+- Experienced in creating visually appealing website layouts and user interfaces with JavaScript, HTML5, CSS3, and ReactJS.
+- Capable of integrating data from diverse back-end services, APIs, and databases.
+- Familiar with front-end technologies such as responsive design, cross-browser compatibility, and mobile optimization.
+- Strong knowledge of server-side programming languages and frameworks, ensuring smooth communication between front-end and back-end components.
+- Sound understanding of RESTful API development and implementation.
+- Proficient in version control systems (e.g., Git) and collaboration tools for efficient team development.
+- Demonstrated ability to troubleshoot and debug complex web applications for optimal performance.
+
+Technical Proficiency
+Client-Side Technology:
+- HTML (8+ years, Expert)
+- CSS (8+ years, Expert)
+- JavaScript (9+ years, Expert)
+- jQuery (7+ years, Expert)
+- Bootstrap (4+ years, Beginner)
+- Angularjs 1 (0.6 years, Beginner)
+- ReactJS (6 years, Intermediate)
+- Angular 6 (1 year, Beginner)
+
+Server Side:
+- Nodejs (ExpressJS)( Web Services) (6+ years, Expert)
+- PHP (Codeigniter) (5+ years, Expert)
+- Perl (Mason) (1+ year, Beginner)
+- MySQL (4+ years, Intermediate)
+- Slim frame (PHP) (1+ year, Intermediate)
+
+CMS:
+- WordPress (3+ years, Intermediate)
+- Silverstripe (1 year, Beginner)
+
+Server/Hosting:
+- AWS, VPS (ssdnode), Shared Hosting (Godaddy, Bluehost, HostGator, iPage)
+
+Version Control:
+- Git, SVN
+
+Software:
+- Adobe Photoshop, Adobe Illustrator, Visual Basics, Android SDK, Dream Viewer, Adobe Flash, 3D MAX, Autodesk Maya, Adobe After Effect, Sound Forge
+
+Operating Systems:
+- Windows XP/Vista/7, Linux, Ubuntu
+
+
+Professional Experience
+
+Accenture, Bangalore, India — Software Engineer
+Present
+Projects Undertaken:
+Client - Cigna
+- Developed an admin panel with CRUD operations for displaying various jobs.
+- Collaborated with UI designers to convert Adobe XD designs into functional webpages.
+- Integrated RESTful APIs with the user interface.
+- Conducted code refactoring to improve code quality and maintainability.
+- Built reusable components for cross-company usage.
+- Technologies used: React.js, Material UI, CSS, HTML
+
+Client - Microsoft
+- Collaborated on building new features for the Microsoft Teams admin center.
+- Addressed UI bugs in the production environment.
+- Developed end-to-end test cases using protractor.js and resolved failures in the CI/CD pipeline.
+- Migrated legacy API calls to newer ones and conducted thorough testing.
+- Monitored API failures using tools like Kusto logs.
+- Technologies used: React.js, Mobx, TypeScript, CSS, HTML
+
+DIYA SYSTEM, Bangalore, India — Senior Software Developer
+Jun 2016 – Sep 2019
+Projects Undertaken:
+beta1.bkpack.coms
+- Implemented chatbot functionality using landbot and Dialogflow.
+- Created a demo for clients using Dialogflow's V1 API.
+- Developed the backend using Node.js (Express.js) and MySQL.
+- Designed and implemented RESTful APIs using Express.js and MySQL.
+- Developed endpoints with scoring algorithms.
+- Collaborated on the frontend development using Angular 6.
+
+Website Build
+- Converted PSD designs to webpage using HTML, CSS and Sass, JavaScript/jQuery, and Perl (Mason Framework) for IPage.com, Bluehost.com, Hostgator.com, and Netfirms.com, Hostgator.com.
+
+EEP 3.0
+- Developed ReactJS component and integrated the evergage platform.
+
+Responsibilities:
+- Actively contributed to project planning and task estimation in Sprint Grooming and Planning sessions.
+- Developed user interfaces to meet client requirements and align with visual and functional specifications.
+- Created exceptional user experiences through usability and user-centered design principles.
+- Transformed design files into responsive and interactive web pages.
+- Implemented Monetate experiences using JavaScript for targeted and personalized content delivery.
+- Created Google Tag Manager (GTM) tags and triggers for user behavior tracking and insights.
+- Conducted timely bug fixes to ensure optimal functionality and user experience.
+
+UTILE SOFTWARE SOLUTIONS PVT. LTD., Bangalore, India — Software Engineer
+Dec 2015 - May 2016
+Responsibilities:
+- Developed custom WordPress themes for visually appealing and functional websites.
+- Integrated AngularJS 1 API frontends for seamless frontend-backend communication.
+- Designed intuitive user interfaces (UI) using CSS and HTML for polished and engaging experiences.
+- Implemented responsive design principles for optimal performance across devices and screen sizes.
+- Conducted thorough testing and debugging to ensure WordPress themes consistency and functionality.
+- Collaborated with cross-functional teams, including designers and backend developers, for seamless integration.
+- Implemented best practices for code organization, maintainability, and performance optimization in WordPress themes.
+
+GIGAQUIRKS (WORK FROM HOME), Bangalore, India — Software Engineer
+Apr 2014 - Jul 2015
+Projects Undertaken:
+Select.gigaquirks.com
+- Designed and implemented database structure for enhanced data management.
+- Developed the project using CodeIgniter (PHP, MVC) framework for scalability and maintainability.
+- Utilized JavaScript, jQuery, and Ajax for interactive user interfaces.
+- Integrated fullcalendar.js for efficient calendar functionality.
+- Implemented responsive design using Bootstrap, CSS, and HTML.
+
+WordPress
+- Collaborated with clients to understand requirements and developed custom solutions.
+- Utilized jQuery, JavaScript, and other libraries based on client needs.
+- Developed interactive and engaging websites using WordPress's extensive functionality.
+
+Magneto
+- Conducted bug fixes to improve performance and resolve issues on the Magneto platform.
+
+jQuery Animation Site
+- Developed a visually appealing website with animated elements using jQuery, creating an engaging user experience.
+
+Responsibilities:
+- Implemented wireframing and prototyping for efficient UI design and development.
+- Contributed to the development of relational databases for optimized data management.
+- Provided technical support for large-scale website development projects.
+- Collaborated with team members to create visually appealing and functional UIs.
+- Integrated program code with content management systems for effective content delivery.
+- Kept up-to-date with web development methods and UI design trends.
+- Managed technical tasks and facilitated efficient project workflow.
+- Acted as a liaison between vendors, developers, and project managers.
+- Mentored developers and contributed to significant software components and interfaces.
+- Ensured developers understood project scope and potential impacts.
+- Monitored developers' progress and addressed potential delays or issues.
+- Communicated technical matters to project managers and sponsors in business terms.
+
+CODE CRAFT TECHNOLOGY, Bangalore, India — Software Engineer
+Jan 2013- Jan 2014
+Responsibilities:
+- Redesigned Code Craft homepage (Codecraft.co.in) to enhance visual appeal and user experience.
+- Managed full lifecycle of development and support projects, including requirements analysis, development, delivery, support, analysis, and documentation.
+- Created front-end designs for multiple client sites, focusing on user interfaces.
+- Provided guidance to clients on technology, processes, and application-related aspects for better understanding and satisfaction.
+- Coordinated end-to-end software product development, from requirement analysis to coding, testing, and debugging.
+- Ensured timely implementation of projects and offered post-implementation support and technical assistance to end-users.
+
+Projects Undertaken:
+Maville
+- Developed an admin panel and web service using Bootstrap 3 and CodeIgniter (MVC, PHP).
+- Utilized JQuery, JavaScript, AJAX, and implemented database design.
+- Integrated weather API for enhanced functionality.
+
+Fanspectrum.com
+- Conducted bug fixing for JavaScript, JQuery, and PHP components.
+- Resolved UI and CSS-related issues.
+
+Renault.co.nz
+- Converted PSD designs to a SilverStripe theme using PHP.
+
+Birthday Buddy
+- Developed an admin panel and implemented push notifications.
+
+Demo projects for clients
+- Created custom solutions using WordPress and PhoneGap based on client requirements.
+
+BILL MAIL ID PVT. LTD., Bangalore, India — Jr. Software Developer
+Aug 2011 - Jan 2013
+Projects Undertaken:
+BillmailId.com
+- Developed the website using Ruby on Rails framework.
+- Implemented social login functionality to enhance user experience.
+- Implemented secure methods for password change feature.
+- Utilized JQuery for form validation and tooltips.
+
+Bmdhouse.com
+- Converted PSD designs to HTML, ensuring pixel-perfect implementation.
+- Created engaging animations using JQuery.
+- Implemented CSS and HTML to ensure proper styling and structure.
+- Utilized PHP for server-side functionality.
+
+Paymycabletv.in
+- Developed the website using CodeIgniter (PHP) framework.
+- Utilized JQuery, JavaScript, and AJAX for dynamic and interactive features.
+- Implemented CSS and HTML for styling and structure.
+
+Academic Credentials
+- 2009: Bachelor of Computer Application from Mangalore University
+- 2010: Diploma in Animation & VFX from Genius Port, Mangalore University
+- 2011: Android Application Development from Genius Port
+
+Personal Details
+- Date of Birth: 14th November 1988
+- Language Proficiency: English, Hindi, Kannada, Malayalam, and Tulu
+
